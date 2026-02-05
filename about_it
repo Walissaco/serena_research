@@ -1,0 +1,43 @@
+** Key Terms in the Dataset **
+
+1. Periacetabular Osteotomy (PAO)
+• 	A surgical procedure to correct hip dysplasia by reorienting the acetabulum (hip socket).
+• 	Goal: improve joint mechanics, reduce pain, and delay/prevent the need for Total Hip Arthroplasty (THA).
+
+2. Total Hip Arthroplasty (THA)
+• 	Also called hip replacement.
+• 	In this dataset, THA is the failure endpoint after PAO — meaning the hip eventually deteriorated enough to require replacement.
+
+3. Tönnis Grading
+• 	A radiographic scale (0–3) measuring osteoarthritis severity:
+• 	0 = no signs of arthritis
+• 	1 = mild changes
+• 	2 = moderate changes
+• 	3 = severe arthritis
+• 	Studies often stratify outcomes by Tönnis grade, since higher grades predict higher risk of THA conversion.
+
+4. Follow-up Duration
+• 	Indicates how long patients were tracked after PAO.
+• 	Reported as minimum, mean, median, and range.
+• 	Longer follow-up = more reliable data on survivorship and THA conversion.
+
+5. Conversion Time to THA
+• 	How long after PAO patients required THA.
+• 	Reported as range, mean, median, or interquartile range (IQR).
+• 	Example: “7 years (IQR 4–10)” means most hips lasted 4–10 years before THA.
+
+6. Age at Surgery
+• 	Reported as mean, median, range, or standard deviation.
+• 	Younger patients generally have better outcomes and lower THA conversion rates.
+
+7. Sample Size (Amount of Hips)
+• 	Number of hips included in each study.
+• 	Larger studies (e.g., >1,000 hips) provide stronger evidence, while smaller cohorts give detailed but less generalizable insights.
+
+** How the Data is Used **
+
+• 	Comparing survivorship: Researchers look at how many hips survive without THA over 10, 20, or 30 years.
+• 	Identifying risk factors: Age, Tönnis grade, and biomechanical issues (like impingement or stress) are linked to higher THA conversion.
+• 	Evaluating surgical success: Low THA conversion rates and long survivorship suggest PAO is effective.
+• 	Guiding patient selection: Helps surgeons decide which patients benefit most (younger, lower Tönnis grade).
+• 	Benchmarking outcomes: Large registry studies (Sweden, US) set baseline expectations for PAO durability.
